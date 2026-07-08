@@ -7,77 +7,77 @@
 ## Pages
 
 ### בית
-https://example.com
+https://chaimoutsidethebox.zappy5.app
 גלו קופסאות אחסון מעוצבות לטלפונים שמזמינות אתכם להתנתק מהמסך ולהתחבר מחדש. עיצוב מוקפד עם מסר חברתי לבית ולמשרד. הזמינו עכשיו לחיים מאוזנים יותר.
 
 ### איך זה עובד
-https://example.com/how-it-works
+https://chaimoutsidethebox.zappy5.app/how-it-works
 המדריך המלא לשימוש חכם בקופסאות אחסון לטלפונים: משלב ההטמנה ועד לחיבור האנושי. גלו איך להכניס שקט ונוכחות לשגרה שלכם. התחילו עוד היום.
 
 ### לחללים
-https://example.com/for-spaces
+https://chaimoutsidethebox.zappy5.app/for-spaces
 שדרגו כל חלל עם קופסאות טלפונים מעוצבות שמעודדות שיח אמיתי. אידיאלי למשרדים, בתי קפה, מסעדות ואירועים. הפכו כל מקום לזירה של חיבור אנושי.
 
 ### הסיפור שלנו
-https://example.com/story
+https://chaimoutsidethebox.zappy5.app/story
 הכירו את החזון שלנו: מותג לייפסטייל שמשלב קופסאות אחסון לטלפונים סלולריים עם שליחות חברתית. קראו איך נולד הרעיון לשנות את הדרך בה אנו מתקשרים.
 
 ### שאלות נפוצות
-https://example.com/faq
+https://chaimoutsidethebox.zappy5.app/faq
 תשובות לשאלות נפוצות על קופסאות אחסון לטלפונים: שימוש, התאמה לחללים, וההשפעה על החיים. קבלו את כל המידע כדי להתחיל לחיות מחוץ לקופסא.
 
 ### צור קשר
-https://example.com/contact
+https://chaimoutsidethebox.zappy5.app/contact
 מוכנים להפוך את הבית או המשרד למקום של נוכחות אמיתית? צרו איתנו קשר עוד היום לפרטים על קופסאות אחסון טלפונים סלולריים מותאמות אישית.
 
 ### Products
-https://example.com/products
+https://chaimoutsidethebox.zappy5.app/products
 המוצרים שלנו - חיים מחוץ לקופסא
 
 ### Cart
-https://example.com/cart
+https://chaimoutsidethebox.zappy5.app/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://example.com/checkout
+https://chaimoutsidethebox.zappy5.app/checkout
 תשלום
 
 ### Login
-https://example.com/login
+https://chaimoutsidethebox.zappy5.app/login
 התחברות לקוחות
 
 ### Account
-https://example.com/account
+https://chaimoutsidethebox.zappy5.app/account
 החשבון שלי
 
 ### Order Success
-https://example.com/order-success
+https://chaimoutsidethebox.zappy5.app/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://example.com/product/:slug
+https://chaimoutsidethebox.zappy5.app/product/:slug
 פרטי המוצר - חיים מחוץ לקופסא
 
 ### Category
-https://example.com/category/:slug
+https://chaimoutsidethebox.zappy5.app/category/:slug
 מוצרים - חיים מחוץ לקופסא
 
 ### תודה שפניתם אלינו
-https://example.com/thank-you
+https://chaimoutsidethebox.zappy5.app/thank-you
 חיים מחוץ לקופסא - תודה שפניתם אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://chaimoutsidethebox.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://chaimoutsidethebox.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://chaimoutsidethebox.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -106,8 +106,8 @@ Home & Office Accessories / Lifestyle Products
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
-- Products (JSON): https://example.com/products.json
-- Products (Google Merchant RSS): https://example.com/product-feed.xml
+- Sitemap (XML): https://chaimoutsidethebox.zappy5.app/sitemap.xml
+- Robots: https://chaimoutsidethebox.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://chaimoutsidethebox.zappy5.app/llms-full.txt
+- Products (JSON): https://chaimoutsidethebox.zappy5.app/products.json
+- Products (Google Merchant RSS): https://chaimoutsidethebox.zappy5.app/product-feed.xml
