@@ -87,9 +87,10 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 1**
 
 ### קופסת בני
-https://chaimoutsidethebox.zappy5.app/product/kvpst-bny-ee2pao
+https://chaimoutsidethebox.zappy5.app/product/kvpst-bny-kxwowz
 - Price: 250.00 ILS (sale, was 290.00 ILS)
 - Availability: In stock
+- Description: זו קופסה מעולה
 - Image: https://chaimoutsidethebox.zappy5.app/assets/image-product-image-1783535140351-co8w1v.webp
 
 ---

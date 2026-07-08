@@ -1,17 +1,17 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-08T18:27:20.569Z",
+  "generated_at": "2026-07-08T18:29:22.440Z",
   "base_url": "https://chaimoutsidethebox.zappy5.app",
   "currency": "ILS",
   "count": 1,
   "products": [
     {
       "id": "eea8650e-2ffd-4912-a670-6db5f2374b9b",
-      "slug": "kvpst-bny-ee2pao",
+      "slug": "kvpst-bny-kxwowz",
       "name": "קופסת בני",
       "name_translations": {},
-      "description": "",
-      "short_description": null,
+      "description": "<p>הקופסה הזו בנוי מחומרים של עך וכך והיא עושה כך וכך</p>",
+      "short_description": "זו קופסה מעולה",
       "sku": null,
       "brand": null,
       "price": 250,
@@ -23,9 +23,9 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://chaimoutsidethebox.zappy5.app/product/kvpst-bny-ee2pao",
+      "url": "https://chaimoutsidethebox.zappy5.app/product/kvpst-bny-kxwowz",
       "categories": [],
-      "updated_at": "2026-07-08T18:25:59.346Z"
+      "updated_at": "2026-07-08T18:28:50.719Z"
     }
   ]
 }
