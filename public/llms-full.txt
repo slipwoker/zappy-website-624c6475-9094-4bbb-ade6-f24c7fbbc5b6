@@ -6464,3 +6464,12 @@ Description: חיים מחוץ לקופסא - תודה שפניתם אלינו
 
 ---
 
+## Product Catalog
+
+### קופסת בני
+URL: https://chaimoutsidethebox.zappy5.app/product/kvpst-bny-ee2pao
+Price: 250.00 ILS (sale, was 290.00 ILS)
+Availability: In stock
+
+---
+
